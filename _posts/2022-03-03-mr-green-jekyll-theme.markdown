@@ -1,22 +1,22 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
-title: Mr. Green Jekyll Theme
+lng_pair: id_post1
+title: Sick of censorship
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: SageofPHY6Paths
 # multiple category is not supported
-category: jekyll
+category: other
 # multiple tag entries are possible
-tags: [jekyll, new feature]
+tags: [rant, tweet]
 # thumbnail image for post
 img: ":mock1.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2022-03-03 12:32:10 +0900
+date: 2023-01-01 23:30:00 +0530
 
 # seo
 # if not specified, date will be used.
@@ -39,6 +39,6 @@ date: 2022-03-03 12:32:10 +0900
 #published: false
 ---
 
-{%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}
-{%- assign tmp_content = readme_file | split: "<!-- readme -->" -%}
-{{tmp_content[1]}}
+Today my Twitter account (<a href="https://twitter.com/SageofPHY6Paths" target="_blank">@SageofPHY6Paths</a>) was permanently suspended. I saw that coming. Before this, even when I post a comment, it will have 0 views, and the person to whom I replied can't even see it because Twitter has shadow banned me. Antireligious activism will obviously offend people, and they will report the tweets. But they shouldn't have permanently suspended me. That guy Musk is recently even allowing racists etc but somehow atheist activism is not allowed. They are only supporting bigotry, not free speech.
+
+So, I just decided to make this blog. It's better than relying on those companies. Even in the worst case GitHub bans atheist activism I will have the source code and I can host it by myself.
