@@ -167,7 +167,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Hello, fellow fools!
   welcome: Welcome
   sample: Activist
 

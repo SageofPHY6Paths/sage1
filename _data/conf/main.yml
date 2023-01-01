@@ -49,13 +49,13 @@ language_switch_top_nav: false
 brand_replace: "$site_brand"
 
 # replace text with data.lang[language].constants.greeting
-greetings_replace: "Hello, fellow fools!"
+greetings_replace: "$site_greetings"
 
 # replace text with data.lang[language].constants.welcome
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "SageofPHY6Paths is a mysterious person who knows important things about which most people know frighteningly little."
+sample_replace: "$site_sample"
 
 ###########################################################
 #                Search

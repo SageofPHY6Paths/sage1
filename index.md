@@ -38,4 +38,4 @@ img: ":home-heading.jpg"
 ---
 # Hello, fellow fools!
 
-SageofPHY6Paths is a mysterious person who knows important things about which most people know frighteningly little
+SageofPHY6Paths is a mysterious person who knows important things about which most people know frighteningly little.
