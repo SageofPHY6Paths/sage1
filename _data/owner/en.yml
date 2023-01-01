@@ -2,7 +2,7 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "SageofPHY6Paths"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
@@ -48,13 +48,13 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
+  - github: "SageofPHY6Paths"
   #- email: ""
   #- linkedin: ""
-  #- twitter: ""
+  - twitter: "SageofPHY6Paths"
   #- mastodon: ""
   #- instagram: ""
-  #- youtube: ""
+  - youtube: "SageofPHY6Paths"
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
