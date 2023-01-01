@@ -11,7 +11,7 @@ category: other
 # multiple tag entries are possible
 tags: [rant, tweet]
 # thumbnail image for post
-img: ":mock1.jpg"
+img: ":1.jpg"
 # disable comments on this page
 #comments_disable: true
 
